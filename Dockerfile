@@ -1,4 +1,4 @@
-FROM alpine
+FROM alpine:3.3
 MAINTAINER Jean Blanchard <jean@blanchard.io>
 
 # Download and install glibc
