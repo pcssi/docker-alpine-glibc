@@ -1,5 +1,5 @@
 FROM alpine:3.3
-MAINTAINER Jean Blanchard <jean@blanchard.io>
+MAINTAINER Pete Colapietro <pcssi@users.noreply.github.com>
 
 ENV GLIBC_APK_VERSION glibc-2.21-r2.apk
 ENV GLIBC_BIN_APK_VERSION glibc-bin-2.21-r2.apk
